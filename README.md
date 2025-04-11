@@ -15,3 +15,5 @@ A Python-based vulnerability scanner that uses nmap to scan targets, checks for 
 - Generates an HTML report.
 - Sends alerts to Slack for high-severity issues. 
 
+
+
